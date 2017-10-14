@@ -18,14 +18,3 @@ int main(){
 		}
 	}
 }
-while t-- :
-	inp=raw_input()
-	inp=inp.split(" ")
-	sum=0
-	for i in range inp[0]:
-		temp=int(raw_input)
-		sum+=temp
-	if(sum>inp[1]):
-		print("No\n")
-	else:
-		print("Yes\n")
